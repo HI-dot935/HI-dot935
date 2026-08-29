@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 HI-dot935 (aka W-G-M)
 
-<!--
-**HI-dot935/HI-dot935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grey hat / red teamer & cybersec guy — security audits, blue teaming, red teaming, pentesting, plus a strong focus on prompt engineering and social engineering. Mostly self-taught since late 2022; most of what I know shows up here, not on a resume.
 
-Here are some ideas to get you started:
+🔗 **Official site:** https://hi-dot935.github.io/
+📝 **Blog:** https://wgmmyjourney.blogspot.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Active projects**
+- [Altered-WGM](https://github.com/HI-dot935/Altered-WGM) — OSINT workbench combining multiple intel tools into one toolkit
+- [RAWS](https://github.com/HI-dot935/RAWS) — lightweight, read-only OSINT investigation dashboard
+- [WGM-AI-Personal-Assistant](https://github.com/HI-dot935/WGM-AI-PERSONAL-ASSISTANT) — voice-driven personal assistant for device automation
+
+More GitHub activity than certificates — check the repos above for the real changelog.
