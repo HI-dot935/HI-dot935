@@ -76,8 +76,9 @@ More on GitHub activity than certificates — check the repos above for the real
 
 <div align="center">
 
-<sub>// HI-dot935 (aka W-G-M) — official presence</sub>
+<sub>// HI-dot935 (aka W-G-M) — official presence. Image credits to stvry </sub>
 
 <div align="center">
   <img width="300" alt="a little something extra" src="https://github.com/user-attachments/assets/a7599fd1-4946-412b-bf56-1270767bdec1" />
 </div>
+
